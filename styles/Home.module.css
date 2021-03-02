@@ -120,3 +120,18 @@
     flex-direction: column;
   }
 }
+
+@media (max-width : 375px){
+  .search{
+    margin: 10px auto!important;
+  }
+  .card{
+    width: 80%!important;
+    margin: auto;
+  }
+  .cardImage{
+    max-width: 16%!important;
+  }
+
+
+}

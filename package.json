@@ -8,9 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
     "antd": "^4.13.0",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
+    "dateformat": "^4.5.1",
     "next": "10.0.7",
     "react": "17.0.1",
     "react-bootstrap": "^1.5.0",
